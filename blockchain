@@ -1,0 +1,6 @@
+$ git clone https://github.com/satwikkansal/python_blockchain_app.git
+$ cd python_blockchain_app
+$ pip install -r requirements.txt
+$ export FLASK_APP=node_server.py
+$ flask run --port 8000
+$ python run_app.py
